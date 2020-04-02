@@ -678,9 +678,44 @@ h1, h2, h3, h4, h5,
   .intro-section .btn {
     text-decoration: none; }
 
+.icomoon-social a {
+  margin: 15px;
+  font-size: 100%;
+  color: white;
+}
+.icon {
+  text-decoration: none;
+  transition: all;
+}
+.icon-facebook {
+  background: #2E406E;
+  padding: .8rem;
+  border-radius: 1.5rem;
+  
+}
+.icon-whatsapp {
+  background: #25d366;
+  padding: .8rem;
+  border-radius: 1.5rem;
+}
+.icon-envelope {
+  background: #D44638;
+  padding: .8rem;
+  border-radius: 1.5rem;
+}
+.icon-linkedin {
+  background: #0e76a8;
+  padding: .8rem;
+  border-radius: 1.5rem;
+}
+.icon:hover {
+  box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
+}
+
+
 .schedule-wrap {
   padding: 40px;
-  background: #f23a2e;
+  background: #f89d13;
   max-width: 700px;
   position: relative;
   z-index: 9;
@@ -709,17 +744,18 @@ h1, h2, h3, h4, h5,
     font-weight: bold; }
   .schedule-wrap .cta a {
     text-align: center;
-    background: #f89d13;
+    background: #f88213;
     color: #fff;
     padding: 10px 20px; }
     .schedule-wrap .cta a .arrow {
       font-size: 1.2rem;
       position: relative;
       top: 3px; }
+    
 
 .schedule-wrap2 {
-  padding: 40px;
-  background: #f23a2e;
+  padding: 20px;
+  background: #f89d13;
   width: 50%;
   position: absolute;
   z-index: 9;
@@ -759,7 +795,7 @@ h1, h2, h3, h4, h5,
       font-size: 1.2rem;
       position: relative;
       top: 3px; }
-
+      
 .ftco-feature-1 {
   text-align: center;
   padding-top: 30px;
