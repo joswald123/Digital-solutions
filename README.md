@@ -13,5 +13,7 @@ Quick Start
 Clone the repo git clone: https://github.com/joswald123/Empresas-Digitales.git  
 Go to your project folder, index html file and open it in your browser.
 
+Live view: https://github.com/joswald123/Empresas-Digitales.git
+
 Note
 This website is currently under construction.
