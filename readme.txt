@@ -4,7 +4,7 @@ It is an information website that creates and develops digital strategies for sm
 in Colombia and the region. This website supports the process of digital transformation using technology and 
 the Internet to increase productivity, work better and sell more!
 
-![Logo](/images/EmpresaDigitales.PNG)
+![Logo](images/EmpresaDigitales.PNG)
 
 Quick Start
 
