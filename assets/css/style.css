@@ -680,7 +680,7 @@ h1, h2, h3, h4, h5,
     text-decoration: none; }
 
 .icomoon-social a {
-  margin: 15px;
+  margin: 3px;
   font-size: 100%;
   color: white;
 }
@@ -716,9 +716,10 @@ h1, h2, h3, h4, h5,
 
 
 .schedule-wrap {
-  padding: 20px;
+  margin-top: 50px;
+  padding: 40px;
   background: #3c1151;
-  max-width: 900px;
+  max-width: 500px;
   position: relative;
   z-index: 9;
   color: white;
