@@ -955,24 +955,32 @@ h1, h2, h3, h4, h5,
   .footer-section .footer-links li {
     margin-bottom: 10px; }
 
-.person img {
-  max-width: 100px;
+.client img {
+  max-width: 150px;
+  max-height: 150px;
   border-radius: 50%;
-  margin-bottom: 30px; }
+  border: 3px solid #8cbe22;
+  box-shadow: 10px 5px 5px rgb(60, 17, 81);
+  margin: 20px; }
 
-.person .position {
+.client .position {
   color: #ccc;
   margin-bottom: 20px;
   text-transform: uppercase;
   font-size: 13px;
   font-weight: bold; }
 
-.person h3 {
+.client h3 {
   font-size: 18px;
   font-weight: bold; }
 
-.person p {
+.client p {
   font-size: 15px; }
+
+  .client:hover, .client .active {
+    -webkit-box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1); }
+
 
 #contact-section .form-control {
   background: #fff; }
