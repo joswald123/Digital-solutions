@@ -1,6 +1,6 @@
 Empresas Digitales - Website
 
-Jquery | Css | Scss | Bootstrap | Fonts | Icons librery
+Jquery | Css | Scss | Bootstrap | Fonts | Icons library
 
 It is an information website that creates and develops digital strategies for small and medium-sized companies 
 in Colombia and the region. This website supports the process of digital transformation using technology and 
