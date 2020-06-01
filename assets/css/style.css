@@ -972,7 +972,15 @@ h1, h2, h3, h4, h5,
 
 .client h3 {
   font-size: 18px;
-  font-weight: bold; }
+  font-weight: bold;
+  
+}
+.client a {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  
+}
 
 .client p {
   font-size: 15px; }
