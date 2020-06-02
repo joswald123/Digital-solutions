@@ -704,7 +704,7 @@ h1, h2, h3, h4, h5,
 
 /* Blocks */
 .intro-section {
-  position: relative; }
+    position: relative; }
   .intro-section > .container {
     z-index: 10;
     position: relative; }
@@ -716,7 +716,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     height: 100%;
     width: 100%;
-    background: #ccc;
+    background-image: url("../images/home2.png");
     border-bottom-right-radius: 0px;
     background-size: cover;
     background-position: center;
