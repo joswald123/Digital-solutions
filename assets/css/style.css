@@ -644,7 +644,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: url("../images/home2.jpg");
+    background: #ccc;
     border-bottom-right-radius: 0px;
     background-size: cover;
     background-position: center;
@@ -700,14 +700,16 @@ h1, h2, h3, h4, h5,
   
 }
 
-.icon-whatsapp {
-  background: #25d366;
+.icon-instagram {
+  background: #d6249f;
+
+}
+
+.icon-youtube {
+  background: #c4302b;
  
 }
-.icon-envelope {
-  background: #D44638;
-  
-}
+
 .icon-linkedin {
   background: #0e76a8;
  
@@ -1039,8 +1041,8 @@ h1, h2, h3, h4, h5,
 
 .social {
     position: fixed;
-    bottom: 0;
-    top: 500px;
+    bottom: 0px;
+    top: 300px;
     right: 0;
     z-index: 2000;
     display: flex;
@@ -1053,25 +1055,20 @@ h1, h2, h3, h4, h5,
 .social ul li a {
     display: inline-block;
     color: #fff;
-    background: #000;
-    padding: 10px 10px;
     text-decoration: none;
     border-radius: 1.5rem;
-    margin: 3px;
+    padding: 5px 5px;
+    margin: 1px;
 }
 
-.social ul li .icon-instagram {
-  background: #d6249f;
-
+.social ul li .icon-envelope {
+  background: #D44638;
+  
 }
 
-.social ul li .icon-twitter {
-  background:#00acee;
 
-}
-
-.social ul li .icon-youtube {
-  background: #c4302b;
+.social ul li .icon-phone {
+  background: #3c1151;
  
 }
 
@@ -1088,6 +1085,8 @@ h1, h2, h3, h4, h5,
 
 @media (max-width: 991.98px) {
   .social {
-    top: 50px; } }
+    top: 50px;
+    
+  } }
 
 
